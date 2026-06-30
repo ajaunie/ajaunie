@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ajaunie and I'm a Software Engineer from North Carolina</h2>
+<h2 align="left">Hi 👋! My name is Ajaunie and I'm an Industrial Engineer from North Carolina</h2>
 
 ###
 
